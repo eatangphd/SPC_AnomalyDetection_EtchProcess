@@ -46,7 +46,7 @@ This project is open source and available under the MIT License.
 - Built with **Python** in **Google Colab** and **DeepSeek**
 - Visualization powered by **Matplotlib** and **Seaborn**
 - Machine learning anomaly detection via **Scikit-learn Isolation Forest**
-- Inspired by semiconductor process control methodologies used at **Intel**, **TSMC**, and **Micron**
+- Inspired by semiconductor process control methodologies used at **Intel**, **TSMC**, and other fabs.
 
 
 ### 📧 Contact email: liz21atang@gmail.com
