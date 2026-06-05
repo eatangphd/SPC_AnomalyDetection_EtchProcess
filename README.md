@@ -25,7 +25,7 @@ Click the badge below to open the notebook directly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZhVuZGrC9vp9mhN_6m6ZvARIaL3YncWB?usp=sharing)
 
-### 📈 Sample Ouput
+### 📈 Sample Output
 Process Capability Analysis (CpK)
 ================================
 - Upper Spec Limit (USL): 160 nm/min
@@ -48,7 +48,6 @@ This project is open source and available under the MIT License.
 - Machine learning anomaly detection via **Scikit-learn Isolation Forest**
 - Inspired by semiconductor process control methodologies used at **Intel**, **TSMC**, and **Micron**
 
-Inspired by semiconductor process control methodologies used at Intel, TSMC, and Micron
 
 ### 📧 Contact email: liz21atang@gmail.com
 **Elizabeth (Epse Kombe) Atang**: [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/elizabeth-atang-phd)
