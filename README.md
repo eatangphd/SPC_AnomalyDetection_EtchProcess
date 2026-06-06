@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-**Semiconductor Process Integration Toolkit** is a Python-based portfolio project demonstrating core skills required for semiconductor process integration engineering. Using simulated etch process data, it applies Statistical Process Control (SPC), Fault Detection & Classification (FDC), root cause analysis, and process capability (CpK) calculations — all directly transferable to high-volume manufacturing environments at Intel, TSMC, and other fabs.
+**Semiconductor Process Integration Toolkit** is a Python-based portfolio project that demonstrates the core skills required for semiconductor process integration engineering. Using simulated etch process data, it applies Statistical Process Control (SPC), Fault Detection & Classification (FDC), root cause analysis, and process capability (CpK) calculations — all of which are directly transferable to high-volume manufacturing environments at semiconductor fabs.
 
 ### 🎯 Key Features
 
@@ -46,7 +46,7 @@ This project is open source and available under the MIT License.
 - Built with **Python** in **Google Colab** and **DeepSeek**
 - Visualization powered by **Matplotlib** and **Seaborn**
 - Machine learning anomaly detection via **Scikit-learn Isolation Forest**
-- Inspired by semiconductor process control methodologies used at **Intel**, **TSMC**, and other fabs.
+- Inspired by semiconductor process control methodologies used at semiconductor fabs.
 
 
 ### 📧 Contact email: liz21atang@gmail.com
