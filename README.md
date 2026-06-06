@@ -26,6 +26,8 @@ Click the badge below to open the notebook directly in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZhVuZGrC9vp9mhN_6m6ZvARIaL3YncWB?usp=sharing)
 
 ### 📈 Sample Output
+<img width="266" height="109" alt="image" src="https://github.com/user-attachments/assets/10188ada-a2ef-43fe-91e4-966624c0b09e" />
+
 Process Capability Analysis (CpK)
 ================================
 - Upper Spec Limit (USL): 160 nm/min
