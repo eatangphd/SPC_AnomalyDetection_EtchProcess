@@ -27,15 +27,7 @@ Click the badge below to open the notebook directly in Google Colab:
 
 ### 📈 Sample Output
 <img width="266" height="109" alt="image" src="https://github.com/user-attachments/assets/10188ada-a2ef-43fe-91e4-966624c0b09e" />
-
-Process Capability Analysis (CpK)
-================================
-- Upper Spec Limit (USL): 160 nm/min
-- Lower Spec Limit (LSL): 140 nm/min
-- Process Mean: 150.2 nm/min
-- Process Std Dev: 2.85
-- Cp: 1.17
-- CpK: 1.09
+<img width="382" height="108" alt="image" src="https://github.com/user-attachments/assets/e0d9099c-d6ef-4924-8c52-154742faab0c" />
 
 
 ### 🤝 Contributing
